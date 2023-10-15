@@ -1,0 +1,63 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .loader{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 30px;
+}
+
+
+  .loader .pair{
+    position: absolute;
+    width: 80px;
+    height: 30px;
+  }
+  .loader .pair .dot{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: #9E9E9E;
+    border-radius: 50%;
+  }
+  .loader .pair .dot-2{
+    right: 0px;
+  }
+  .loader .p2{
+    left: 50px;
+  }
+  .loader .p1{
+    animation: spin 1000ms ease-in-out infinite;
+  }
+  .loader .p2{
+    animation: spin 1000ms ease-in-out infinite reverse;
+  }
+  .loader .p1 .dot-1{
+    opacity: 0;
+    animation: hide 1000ms ease-in-out infinite reverse;
+  }
+  .loader .p2 .dot-2{
+    opacity: 0;
+    animation: hide 1000ms ease-in-out infinite;
+  }
+  @keyframes hide {
+    0%, 49%{
+      opacity: 0;
+    }
+    50%, 100%{
+      opacity: 1;
+    }
+  }
+  @keyframes spin {
+    0%{
+      transform: rotate(0deg);
+    }
+    50%, 100%{
+      transform: rotate(180deg);
+    }
+  }
+  

@@ -1,0 +1,47 @@
+Timestamp,1. Which place are you looking for ?,3. What is the name of block ?,4. On Which floor does this corresponding destination is located ?,5. Specify the landmark of corresponding location ( if any ) ,2. Type of destination,"If other, Mention the type ?",3.a Which Department ?
+4/21/2023 10:04:35,NC35,Sir M Visvesvaraya Block,3rd Floor,To the right of NC 34,Classroom,,ISE
+4/21/2023 10:05:25,LH503,APJ Block,5th Floor,Near ISE HO Department ,Classroom,,ISE
+4/21/2023 13:07:05,Dr.Manjula Gururaj,Sir M Visvesvaraya Block,4th Floor,In front of 2nd lift,Faculty's cabin,,ISE
+4/21/2023 13:07:18,Dr Sumathi,Sir M Visvesvaraya Block,4th Floor,In front of secind lift ,Faculty's cabin,,ISE
+4/21/2023 13:24:45,Dr.Vasudeva ,Sir M Visvesvaraya Block,5th Floor,In front of  2nd lift,Faculty's cabin,,ISE
+4/21/2023 13:26:21,Mr.Sudesh Rao,Sir M Visvesvaraya Block,5th Floor,Near NC 53 classroom,Faculty's cabin,,AIML
+4/21/2023 13:28:56,NC 34,Sir M Visvesvaraya Block,3rd Floor,Right side to the first lift,Classroom,,ISE
+4/21/2023 13:30:34,Department library and E learning center,Sir M Visvesvaraya Block,3rd Floor,Right side to the lift exit,Other,Department library ,EEE
+4/21/2023 13:31:28,Logic/Microcontroller ,Sir M Visvesvaraya Block,3rd Floor,"Near Analog/ Power electronics lab,to the right",Lab,,EEE
+4/21/2023 13:31:32,NC 36,Sir M Visvesvaraya Block,3rd Floor,Opposite to lift exit,Classroom,,
+4/21/2023 13:32:27,NCL 37,Sir M Visvesvaraya Block,3rd Floor,Near 2nd lift,Lab,Research lab,EEE
+4/21/2023 13:34:00,NC 23,Sir M Visvesvaraya Block,2nd Floor,Near EEE staffroom -23 ,Classroom,,EEE
+4/21/2023 13:34:06,NC 24,Sir M Visvesvaraya Block,2nd Floor,Lift exit right side,Classroom,,
+4/21/2023 13:34:51,NC 27,Sir M Visvesvaraya Block,2nd Floor,Near 2nd lift (2nd floor),Classroom,,EEE
+4/21/2023 13:34:54,NC 25,Sir M Visvesvaraya Block,3rd Floor,Right side to lift exit,Classroom,,
+4/21/2023 13:35:29,NC 26,Sir M Visvesvaraya Block,2nd Floor,Opposite to lift exit,Classroom,,
+4/21/2023 13:36:05,NC 22,Sir M Visvesvaraya Block,2nd Floor,Left opposite to 2nd lift,Classroom,,EEE
+4/21/2023 13:36:41,NC 21,Sir M Visvesvaraya Block,2nd Floor,Near NC 22,Classroom,,
+4/21/2023 13:36:47, Rajalakshmi Samga BL,Sir M Visvesvaraya Block,2nd Floor,Right side to lift exit,Faculty's cabin,,EEE
+4/21/2023 13:37:42,Dinesh Shetty ,Sir M Visvesvaraya Block,2nd Floor,Right exit to lift,Faculty's cabin,,EEE
+4/21/2023 13:38:11,Ms.Anupama B ,Sir M Visvesvaraya Block,2nd Floor,Right Opposite to 2nd lift,Faculty's cabin,,EEE
+4/21/2023 13:38:27,Nayana shetty,Sir M Visvesvaraya Block,2nd Floor,Right exit to lift,Faculty's cabin,,EEE
+4/21/2023 13:38:43,Ms.Deepa K,Sir M Visvesvaraya Block,2nd Floor,Left opposite to 2nd lift,Faculty's cabin,,EEE
+4/21/2023 13:39:18,Mrs.Palimaru Aparna ,Sir M Visvesvaraya Block,2nd Floor,Left opposite to 2nd lift ,Faculty's cabin,,EEE
+4/21/2023 13:39:39,Anitha Marina Colaco,Sir M Visvesvaraya Block,2nd Floor,Right side of lift exit,Faculty's cabin,,EEE
+4/21/2023 13:39:53,Ms.Nutana Shetty,Sir M Visvesvaraya Block,2nd Floor,Left opposite to 2nd lift,Faculty's cabin,,EEE
+4/21/2023 13:40:31,Mr.Pradeep Kumar ,Sir M Visvesvaraya Block,2nd Floor,Opposite to 2nd lift,Faculty's cabin,,EEE
+4/21/2023 13:40:41,Latha shenoy,Sir M Visvesvaraya Block,2nd Floor,Opposite to second lift,Faculty's cabin,,EEE
+4/21/2023 13:41:03,Mr.Naveen J,Sir M Visvesvaraya Block,2nd Floor,Opposite to 2nf lift,Faculty's cabin,,EEE
+4/21/2023 13:42:08,NC 14,Sir M Visvesvaraya Block,1st Floor,Right side of first lift,Classroom,,
+4/21/2023 13:42:39,NC 13 ,Sir M Visvesvaraya Block,1st Floor,Sharp Left to the stairs,Classroom,,CIVIL
+4/21/2023 13:42:51,NC 15,Sir M Visvesvaraya Block,1st Floor,Right side to first lift(fire exit),Classroom,,
+4/21/2023 13:43:39,Mr.Roshan Rai,Sir M Visvesvaraya Block,1st Floor,Staff Room - 05,Faculty's cabin,,CIVIL
+4/21/2023 13:45:11,Mr.Gururaj Acharya ,Sir M Visvesvaraya Block,1st Floor,Staff Room - 05 ( Near NC 13),Faculty's cabin,,CIVIL
+4/21/2023 13:45:15,Srinath Shetty K,Sir M Visvesvaraya Block,1st Floor,Right exit to first lift,Faculty's cabin,,CIVIL
+4/21/2023 13:45:52,Arun Kumar Bhat,Sir M Visvesvaraya Block,1st Floor,Right exit to first lift,Faculty's cabin,,CIVIL
+4/21/2023 13:46:22,JK Lokesh,Sir M Visvesvaraya Block,1st Floor,Right exit to first lift,Faculty's cabin,,CIVIL
+4/21/2023 13:46:33,Mrs.Thanushree Hegde,Sir M Visvesvaraya Block,1st Floor,Staff Room - 05,Faculty's cabin,,CIVIL
+4/21/2023 13:46:52,Mithun B M,Sir M Visvesvaraya Block,1st Floor,Right exit to first lift ,Faculty's cabin,,CIVIL
+4/21/2023 13:47:04,Mr.Prashanth Kumar ,Sir M Visvesvaraya Block,1st Floor,Staff Room - 05,Faculty's cabin,,CIVIL
+4/21/2023 13:47:37,Mr.Arjun k.Punja ,Sir M Visvesvaraya Block,1st Floor,Staff Room - 05,Faculty's cabin,,CIVIL
+4/21/2023 13:47:53,Udayakumar G,Sir M Visvesvaraya Block,1st Floor,Opposite to second lift,Faculty's cabin,,CIVIL
+4/21/2023 13:49:03,Dr Shriram Marathe ,Sir M Visvesvaraya Block,1st Floor,Opposite to 2nd lift,Faculty's cabin,,CIVIL
+4/21/2023 13:49:03,Ranjith A,Sir M Visvesvaraya Block,1st Floor,Opposite to second lift,Faculty's cabin,,CIVIL
+4/21/2023 13:49:40,Dr.Bhojaraja B.E,Sir M Visvesvaraya Block,1st Floor,Opposite to 2nd lift,Faculty's cabin,,CIVIL
+4/21/2023 13:49:57,PG lecture hall 03,Sir M Visvesvaraya Block,1st Floor,Near second lift ,Classroom,,
